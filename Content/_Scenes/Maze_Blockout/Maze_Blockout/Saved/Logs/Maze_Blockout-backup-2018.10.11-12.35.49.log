@@ -1,0 +1,1428 @@
+﻿Log file open, 10/11/18 09:34:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Maze_Blockout
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(66512295) SRandInit(66512295).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178691
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.592s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-3UEFR09 (172.30.144.185:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.11-14.34.38:945][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.11-14.34.38:945][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.11-14.34.38:959][  0]LogInit: Computer: DESKTOP-3UEFR09
+[2018.10.11-14.34.38:959][  0]LogInit: User: AlexisLellios
+[2018.10.11-14.34.38:959][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.10.11-14.34.38:959][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.10.11-14.34.38:960][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.11-14.34.38:960][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.11-14.34.38:960][  0]LogMemory: Process Physical Memory: 273.36 MB used, 273.36 MB peak
+[2018.10.11-14.34.38:960][  0]LogMemory: Process Virtual Memory: 263.89 MB used, 263.89 MB peak
+[2018.10.11-14.34.38:960][  0]LogMemory: Physical Memory: 5523.33 MB used,  2593.97 MB free, 8117.30 MB total
+[2018.10.11-14.34.38:960][  0]LogMemory: Virtual Memory: 4780.89 MB used,  2593.97 MB free, 134217728.00 MB total
+[2018.10.11-14.34.38:980][  0]LogInit: Using OS detected language (en-US).
+[2018.10.11-14.34.38:980][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.11-14.34.38:984][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.11-14.34.39:554][  0]LogStreaming: Display: Took  0.574s to EndInitTextLocalization.
+[2018.10.11-14.34.39:554][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.11-14.34.39:606][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.11-14.34.39:606][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.11-14.34.39:874][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.11-14.34.39:937][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GPU' (Feature Level 11_0)
+[2018.10.11-14.34.39:937][  0]LogD3D11RHI:       997/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.11-14.34.39:946][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.10.11-14.34.39:946][  0]LogD3D11RHI:       128/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.11-14.34.39:949][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.11-14.34.39:949][  0]LogD3D11RHI:       0/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.11-14.34.39:949][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.11-14.34.39:987][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.11-14.34.39:987][  0]LogD3D11RHI:     GPU DeviceId: 0x134b (for the marketing name, search the web for "GPU Device Id")
+[2018.10.11-14.34.39:987][  0]LogWindows: EnumDisplayDevices:
+[2018.10.11-14.34.39:987][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.10.11-14.34.39:988][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.10.11-14.34.39:988][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.10.11-14.34.39:988][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.11-14.34.39:988][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GPU
+[2018.10.11-14.34.39:988][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.11-14.34.39:988][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.11-14.34.39:988][  0]LogRHI: Texture pool is 698 MB (70% of 997 MB)
+[2018.10.11-14.34.40:027][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.10.11-14.34.40:027][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.11-14.34.40:027][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.11-14.34.40:043][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.11-14.34.40:048][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Intermediate/Shaders/WorkingDirectory/28256/).
+[2018.10.11-14.34.40:048][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alexis Lellios/AppData/Local/Temp/UnrealShaderWorkingDir/710C75EB44EF9BEE981B9C824B3B4D17/'.
+[2018.10.11-14.34.40:373][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.11-14.34.40:389][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.11-14.34.40:404][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.11-14.34.40:420][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.11-14.34.40:435][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.11-14.34.40:450][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.11-14.34.40:466][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.11-14.34.40:482][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.11-14.34.40:490][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.11-14.34.40:502][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.11-14.34.40:519][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.11-14.34.40:532][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.11-14.34.40:544][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.10.11-14.34.40:561][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.11-14.34.40:575][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.11-14.34.40:601][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.11-14.34.40:601][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.11-14.34.40:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.11-14.34.40:616][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.11-14.34.40:655][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.11-14.34.40:669][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.11-14.34.40:681][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.11-14.34.40:694][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.11-14.34.40:707][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.11-14.34.40:720][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.11-14.34.40:720][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.11-14.34.40:897][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.11-14.34.40:897][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.11-14.34.40:897][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.11-14.34.41:699][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.11-14.34.41:790][  0]LogDerivedDataCache: Loaded boot cache 0.09s 88MB C:/Users/Alexis Lellios/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.11-14.34.41:790][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alexis Lellios/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.10.11-14.34.41:790][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.11-14.34.41:790][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.11-14.34.41:790][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.11-14.34.41:790][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.11-14.34.41:806][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.11-14.34.41:819][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alexis Lellios/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.11-14.34.41:819][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.11-14.34.41:819][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.11-14.34.41:832][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.11-14.34.41:833][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.11-14.34.41:833][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.11-14.34.41:833][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.11-14.34.41:982][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2018.10.11-14.34.42:414][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.11-14.34.42:618][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.11-14.34.42:622][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.11-14.34.42:623][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.11-14.34.42:623][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.11-14.34.42:623][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.11-14.34.42:623][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.11-14.34.42:672][  0]LogNetVersion: Maze_Blockout , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1639169306)
+[2018.10.11-14.34.43:354][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.118166 seconds
+[2018.10.11-14.34.43:362][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.10.11-14.34.43:362][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.10.11-14.34.43:362][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.11-14.34.45:576][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.11-14.34.45:641][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.11-14.34.46:197][  0]SourceControl: Source control is disabled
+[2018.10.11-14.34.46:197][  0]SourceControl: Source control is disabled
+[2018.10.11-14.34.46:227][  0]SourceControl: Source control is disabled
+[2018.10.11-14.34.46:258][  0]SourceControl: Source control is disabled
+[2018.10.11-14.34.47:033][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.11-14.34.47:290][  0]LogOcInput: OculusInput pre-init called
+[2018.10.11-14.34.47:458][  0]LogEngine: Initializing Engine...
+[2018.10.11-14.34.47:460][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.11-14.34.47:461][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.11-14.34.47:461][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.11-14.34.47:750][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.11-14.34.47:769][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.11-14.34.49:336][  0]LogInit: FAudioDevice initialized.
+[2018.10.11-14.34.49:438][  0]LogDerivedDataCache: Saved boot cache 0.10s 88MB C:/Users/Alexis Lellios/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.11-14.34.49:466][  0]LogInit: Texture streaming: Enabled
+[2018.10.11-14.34.49:491][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.11-14.34.49:516][  0]LogInit: Transaction tracking system initialized
+[2018.10.11-14.34.49:557][  0]BlueprintLog: New page: Editor Load
+[2018.10.11-14.34.49:757][  0]LocalizationService: Localization service is disabled
+[2018.10.11-14.34.49:941][  0]LogConsoleResponse: Display: 
+[2018.10.11-14.34.50:214][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/' took 0.01s
+[2018.10.11-14.34.50:214][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.11-14.34.50:214][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.11-14.34.50:214][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.11-14.34.50:214][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.11-14.34.50:214][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.11-14.34.50:891][  0]SourceControl: Source control is disabled
+[2018.10.11-14.34.50:902][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.10.11-14.34.50:918][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.10.11-14.34.50:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.10.11-14.34.50:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.10.11-14.34.50:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.10.11-14.34.50:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.10.11-14.34.50:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.10.11-14.34.51:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.10.11-14.34.51:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.10.11-14.34.51:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.10.11-14.34.51:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.10.11-14.34.51:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.10.11-14.34.51:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.10.11-14.34.51:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.10.11-14.34.51:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.10.11-14.34.51:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.10.11-14.34.51:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.10.11-14.34.51:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.10.11-14.34.51:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.10.11-14.34.51:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Fire01.uasset"
+[2018.10.11-14.34.51:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.10.11-14.34.51:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.10.11-14.34.51:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.10.11-14.34.51:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Light01.uasset"
+[2018.10.11-14.34.51:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.10.11-14.34.51:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Light02.uasset"
+[2018.10.11-14.34.51:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.10.11-14.34.51:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.10.11-14.34.51:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.10.11-14.34.51:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.10.11-14.34.51:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.10.11-14.34.51:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.10.11-14.34.51:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.10.11-14.34.51:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.10.11-14.34.51:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.10.11-14.34.51:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Steam01.uasset"
+[2018.10.11-14.34.51:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.10.11-14.34.51:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.10.11-14.34.51:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.10.11-14.34.51:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.10.11-14.34.51:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.10.11-14.34.51:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.10.11-14.34.51:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.10.11-14.34.51:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.10.11-14.34.51:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.10.11-14.34.51:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.10.11-14.34.51:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.10.11-14.34.51:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.10.11-14.34.51:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.10.11-14.34.51:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.10.11-14.34.51:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.10.11-14.34.51:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.10.11-14.34.51:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.10.11-14.34.51:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.10.11-14.34.51:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.10.11-14.34.51:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.10.11-14.34.51:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.10.11-14.34.51:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.10.11-14.34.51:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/StarterMap.umap"
+[2018.10.11-14.34.51:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.10.11-14.34.51:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.10.11-14.34.52:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.10.11-14.34.52:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.10.11-14.34.52:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.10.11-14.34.52:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.10.11-14.34.52:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.10.11-14.34.52:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.10.11-14.34.52:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.10.11-14.34.52:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.10.11-14.34.52:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.10.11-14.34.52:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.10.11-14.34.52:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.10.11-14.34.52:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.10.11-14.34.52:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.10.11-14.34.52:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.10.11-14.34.52:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.10.11-14.34.52:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.10.11-14.34.52:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.10.11-14.34.52:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.10.11-14.34.52:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.10.11-14.34.52:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.10.11-14.34.52:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.10.11-14.34.52:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.10.11-14.34.52:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.10.11-14.34.52:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.10.11-14.34.52:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.10.11-14.34.52:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.10.11-14.34.52:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.10.11-14.34.52:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.10.11-14.34.52:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.10.11-14.34.52:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.10.11-14.34.52:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.10.11-14.34.52:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.10.11-14.34.52:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.10.11-14.34.52:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.10.11-14.34.52:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.10.11-14.34.52:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.10.11-14.34.52:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.10.11-14.34.52:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.10.11-14.34.52:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.10.11-14.34.52:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.10.11-14.34.52:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.10.11-14.34.52:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.10.11-14.34.52:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.10.11-14.34.52:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.10.11-14.34.52:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.10.11-14.34.52:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.10.11-14.34.52:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.10.11-14.34.52:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.10.11-14.34.52:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.10.11-14.34.52:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.10.11-14.34.52:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.10.11-14.34.52:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.10.11-14.34.52:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.10.11-14.34.52:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.10.11-14.34.52:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.10.11-14.34.52:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.10.11-14.34.52:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.10.11-14.34.52:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.10.11-14.34.52:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.10.11-14.34.52:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.10.11-14.34.52:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.10.11-14.34.52:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.10.11-14.34.52:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.10.11-14.34.52:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_Door.uasset"
+[2018.10.11-14.34.52:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.10.11-14.34.52:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.10.11-14.34.52:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.10.11-14.34.52:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.10.11-14.34.52:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.10.11-14.34.53:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.10.11-14.34.53:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.10.11-14.34.53:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.10.11-14.34.53:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.10.11-14.34.53:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.10.11-14.34.53:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.10.11-14.34.53:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.10.11-14.34.53:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.10.11-14.34.53:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.10.11-14.34.53:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.10.11-14.34.53:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.10.11-14.34.53:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.10.11-14.34.53:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.10.11-14.34.53:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.10.11-14.34.53:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.10.11-14.34.53:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.10.11-14.34.53:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.10.11-14.34.53:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.10.11-14.34.53:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.10.11-14.34.53:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.10.11-14.34.53:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.10.11-14.34.53:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.10.11-14.34.53:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.10.11-14.34.53:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.10.11-14.34.53:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.10.11-14.34.53:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.10.11-14.34.53:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.10.11-14.34.53:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.10.11-14.34.53:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.10.11-14.34.53:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.10.11-14.34.53:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.10.11-14.34.53:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.10.11-14.34.53:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.10.11-14.34.53:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.10.11-14.34.53:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.10.11-14.34.53:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.10.11-14.34.53:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.10.11-14.34.53:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.10.11-14.34.53:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.10.11-14.34.53:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.10.11-14.34.53:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.10.11-14.34.53:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.10.11-14.34.53:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.10.11-14.34.53:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.10.11-14.34.53:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.10.11-14.34.53:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.10.11-14.34.53:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.10.11-14.34.53:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.10.11-14.34.53:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.10.11-14.34.53:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.10.11-14.34.54:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.10.11-14.34.54:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.10.11-14.34.54:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.10.11-14.34.54:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.10.11-14.34.54:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.10.11-14.34.54:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.10.11-14.34.54:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.10.11-14.34.54:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.10.11-14.34.54:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.10.11-14.34.54:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.10.11-14.34.54:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.10.11-14.34.54:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.10.11-14.34.54:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.10.11-14.34.54:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.10.11-14.34.54:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.10.11-14.34.54:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.10.11-14.34.54:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.10.11-14.34.54:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.10.11-14.34.54:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.10.11-14.34.54:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.10.11-14.34.54:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.10.11-14.34.54:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.10.11-14.34.54:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.10.11-14.34.54:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.10.11-14.34.54:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.10.11-14.34.54:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.10.11-14.34.54:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.10.11-14.34.54:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.10.11-14.34.54:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.10.11-14.34.54:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.10.11-14.34.54:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.10.11-14.34.54:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.10.11-14.34.54:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.10.11-14.34.54:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.10.11-14.34.55:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.10.11-14.34.55:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.10.11-14.34.55:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.10.11-14.34.55:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.10.11-14.34.55:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.10.11-14.34.55:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.10.11-14.34.55:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.10.11-14.34.55:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.10.11-14.34.55:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.10.11-14.34.55:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.10.11-14.34.55:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.10.11-14.34.55:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.10.11-14.34.56:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.10.11-14.34.56:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.10.11-14.34.56:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.10.11-14.34.56:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.10.11-14.34.56:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.10.11-14.34.56:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.10.11-14.34.56:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.10.11-14.34.56:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.10.11-14.34.56:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.10.11-14.34.56:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.10.11-14.34.56:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.10.11-14.34.57:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.10.11-14.34.57:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.10.11-14.34.57:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.10.11-14.34.57:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.10.11-14.34.57:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.10.11-14.34.57:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.10.11-14.34.57:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.10.11-14.34.57:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.10.11-14.34.57:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.10.11-14.34.57:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.10.11-14.34.57:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.10.11-14.34.57:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.10.11-14.34.57:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.10.11-14.34.57:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.10.11-14.34.57:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.10.11-14.34.57:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.10.11-14.34.57:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.10.11-14.34.57:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.10.11-14.34.57:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.10.11-14.34.57:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.10.11-14.34.57:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.10.11-14.34.57:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.10.11-14.34.57:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.10.11-14.34.57:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.10.11-14.34.57:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.10.11-14.34.57:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.10.11-14.34.57:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.10.11-14.34.57:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.10.11-14.34.57:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.10.11-14.34.57:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.10.11-14.34.57:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.10.11-14.34.57:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.10.11-14.34.57:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.10.11-14.34.57:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.10.11-14.34.57:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.10.11-14.34.57:891][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.10.11-14.34.59:037][  0]LogSavePackage: Save=25.32ms
+[2018.10.11-14.34.59:037][  0]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Floor_400x40036CB59304316FD987ABD6AB8F1E97CA8.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.10.11-14.34.59:046][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.10.11-14.34.59:047][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.10.11-14.34.59:053][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.11-14.34.59:053][  0]LightingResults: New page: Lighting Build
+[2018.10.11-14.34.59:058][  0]MapCheck: New page: Map Check
+[2018.10.11-14.34.59:058][  0]LightingResults: New page: Lighting Build
+[2018.10.11-14.34.59:542][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.10.11-14.34.59:559][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.11-14.34.59:576][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.11-14.34.59:647][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.963ms to complete.
+[2018.10.11-14.34.59:647][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.596
+[2018.10.11-14.34.59:944][  0]LogCollectionManager: Loaded 0 collections in 0.002596 seconds
+[2018.10.11-14.35.00:046][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Collections/' took 0.01s
+[2018.10.11-14.35.00:047][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/Developers/AlexisLellios/Collections/' took 0.01s
+[2018.10.11-14.35.00:047][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/Collections/' took 0.01s
+[2018.10.11-14.35.00:047][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.11-14.35.00:064][  0]LogContentBrowser: Native class hierarchy populated in 0.0156 seconds. Added 2452 classes and 558 folders.
+[2018.10.11-14.35.00:080][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.11-14.35.00:721][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.11-14.35.00:742][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.11-14.35.00:864][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.11-14.35.00:868][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.11-14.35.00:890][  0]LogSlate: Took 0.009070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.11-14.35.01:055][  0]LogRenderer: Reallocating scene render targets to support 944x524 Format 10 NumSamples 1 (Frame:1).
+[2018.10.11-14.35.01:382][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.11-14.35.01:382][  0]LogLoad: (Engine Initialization) Total time: 25.89 seconds
+[2018.10.11-14.35.01:382][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.11-14.35.01:400][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.11-14.35.01:574][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.11-14.35.01:602][  1]LogAssetRegistry: Asset discovery search completed in 19.6438 seconds
+[2018.10.11-14.35.01:605][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.11-14.35.01:605][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
+[2018.10.11-14.35.07:641][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2018.10.11-14.35.09:166][222]Cmd: DELETE
+[2018.10.11-14.35.09:166][222]Cmd: ACTOR DELETE
+[2018.10.11-14.35.09:185][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.11-14.35.09:204][222]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.10.11-14.35.10:415][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2018.10.11-14.35.11:131][286]Cmd: DELETE
+[2018.10.11-14.35.11:132][286]Cmd: ACTOR DELETE
+[2018.10.11-14.35.11:135][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.11-14.35.11:157][286]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.10.11-14.35.12:531][333]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.11-14.35.13:896][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2018.10.11-14.35.14:846][397]Cmd: DELETE
+[2018.10.11-14.35.14:846][397]Cmd: ACTOR DELETE
+[2018.10.11-14.35.14:850][397]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.11-14.35.14:866][397]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.10.11-14.35.16:797][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2018.10.11-14.35.17:322][478]Cmd: DELETE
+[2018.10.11-14.35.17:322][478]Cmd: ACTOR DELETE
+[2018.10.11-14.35.17:324][478]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.11-14.35.17:339][478]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.10.11-14.35.25:942][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-14.35.31:211][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.11-14.35.31:226][948]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.10.11-14.35.50:715][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-14.36.06:600][146]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.10.11-14.36.06:647][146]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.10.11-14.36.07:533][179]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.10.11-14.36.07:551][179]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.10.11-14.36.09:392][245]Cmd: TRANSACTION UNDO
+[2018.10.11-14.36.09:392][245]LogEditorTransaction: Undo Delete selection
+[2018.10.11-14.36.09:450][245]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.11-14.36.13:547][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-14.39.04:977][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-14.39.07:210][206]LogActorFactory: Actor Factory created Cube
+[2018.10.11-14.39.07:647][217]LogActorFactory: Actor Factory created Cube
+[2018.10.11-14.39.15:675][481]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-14.39.18:986][591]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-14.39.20:821][648]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-14.39.31:788][ 15]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-14.44.00:321][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-14.45.05:495][755]Cmd: EDIT COPY
+[2018.10.11-14.45.06:438][787]Cmd: EDIT PASTE
+[2018.10.11-14.45.38:595][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.10.11-14.45.54:231][384]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2018.10.11-14.46.17:025][121]Cmd: TRANSACTION UNDO
+[2018.10.11-14.46.17:025][121]LogEditorTransaction: Undo Move Actors
+[2018.10.11-14.46.38:867][852]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.11-14.46.39:473][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.10.11-14.47.44:947][ 24]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-14.47.47:740][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.10.11-14.48.03:558][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.10.11-14.48.04:801][675]Cmd: EDIT COPY
+[2018.10.11-14.48.05:096][685]Cmd: EDIT PASTE
+[2018.10.11-14.48.08:691][803]LogSlate: Took 0.011977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.11-14.48.09:541][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-14.48.23:773][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-14.48.24:410][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.10.11-14.48.55:440][346]Cmd: EDIT COPY
+[2018.10.11-14.48.55:729][353]Cmd: EDIT PASTE
+[2018.10.11-14.49.41:665][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-14.49.42:898][920]LogActorFactory: Actor Factory created Cylinder
+[2018.10.11-14.49.44:052][957]LogActorFactory: Actor Factory created Cylinder
+[2018.10.11-14.50.40:171][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.10.11-14.51.21:742][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-14.51.21:916][212]LogSavePackage: Save=100.59ms
+[2018.10.11-14.51.21:916][212]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_Auto12BBEE2104072D5BAED220DA2DECF147C.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.10.11-14.51.21:917][212]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2018.10.11-14.51.21:925][212]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.141
+[2018.10.11-14.51.21:925][212]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.141
+[2018.10.11-14.52.40:205][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-14.52.40:841][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.11-14.52.41:860][924]Cmd: DELETE
+[2018.10.11-14.52.41:860][924]Cmd: ACTOR DELETE
+[2018.10.11-14.52.41:863][924]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.11-14.52.41:879][924]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.10.11-14.52.43:451][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.10.11-14.52.44:581][ 14]Cmd: EDIT COPY
+[2018.10.11-14.52.44:787][ 21]Cmd: EDIT PASTE
+[2018.10.11-14.52.47:704][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-14.53.41:102][881]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-14.53.41:273][881]LogSavePackage: Save=86.31ms
+[2018.10.11-14.53.41:273][881]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_DefaultD9D87CE0457A6FD8CF3EE2A53A61165A.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.10.11-14.53.41:281][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.10.11-14.53.41:432][881]LogSavePackage: Save=93.88ms
+[2018.10.11-14.53.41:432][881]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_BuiltData6C3A797145774DA5DF6067B5F0A0A930.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.10.11-14.53.41:433][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.10.11-14.53.56:945][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.10.11-14.53.57:840][419]Cmd: EDIT COPY
+[2018.10.11-14.53.58:116][426]Cmd: EDIT PASTE
+[2018.10.11-14.54.00:123][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-14.54.11:545][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-14.54.12:306][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.10.11-14.54.33:240][516]Cmd: EDIT PASTE
+[2018.10.11-14.54.37:851][666]Cmd: TRANSACTION UNDO
+[2018.10.11-14.54.37:852][666]LogEditorTransaction: Undo Move Actors
+[2018.10.11-14.54.58:693][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-14.55.11:947][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.10.11-14.55.13:056][808]Cmd: EDIT COPY
+[2018.10.11-14.55.13:835][834]Cmd: EDIT PASTE
+[2018.10.11-14.55.27:200][258]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-14.55.30:911][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-14.56.50:839][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-14.56.51:000][ 12]LogSavePackage: Save=87.78ms
+[2018.10.11-14.56.51:000][ 12]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default37E94A364433CBC6FDEA3BB980B3BB82.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.10.11-14.56.51:004][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.10.11-14.56.51:102][ 12]LogSavePackage: Save=79.67ms
+[2018.10.11-14.56.51:103][ 12]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_BuiltData2AD6BE6948DEA4203F1AF8A48153CC3F.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.10.11-14.56.51:104][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.10.11-14.57.00:911][115]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.11-14.57.01:899][117]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.11-14.57.02:404][118]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.11-14.57.02:908][119]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.11-14.57.03:413][120]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.11-14.57.03:918][121]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.11-14.57.04:422][122]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.11-14.57.04:927][123]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.11-14.58.04:863][124]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.11-14.58.05:785][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-14.58.06:324][129]LogSavePackage: Save=204.23ms
+[2018.10.11-14.58.06:325][129]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_DefaultCBE0816648B8BDBC20384D99305F41C0.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.10.11-14.58.06:338][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.10.11-14.58.06:488][129]LogSavePackage: Save=118.85ms
+[2018.10.11-14.58.06:489][129]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_BuiltData5033FC9B4F2FB751EE5AFE9D8A8C1BFC.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.10.11-14.58.06:494][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.10.11-14.58.11:804][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-15.27.46:103][ 30]Cmd: EDIT COPY
+[2018.10.11-15.27.46:311][ 37]Cmd: EDIT PASTE
+[2018.10.11-15.27.48:918][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-15.28.04:177][604]Cmd: EDIT COPY
+[2018.10.11-15.28.04:362][609]Cmd: EDIT PASTE
+[2018.10.11-15.28.07:679][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-15.28.29:686][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.28.49:567][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.28.50:453][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.10.11-15.28.51:312][ 95]Cmd: EDIT COPY
+[2018.10.11-15.28.51:494][101]Cmd: EDIT PASTE
+[2018.10.11-15.29.32:711][656]LogSavePackage: Save=197.74ms
+[2018.10.11-15.29.32:711][656]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_Auto2E2C7EDBF44FF9D0DBAFA198E41138274.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2018.10.11-15.29.32:714][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap
+[2018.10.11-15.29.32:724][656]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.246
+[2018.10.11-15.29.32:724][656]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.246
+[2018.10.11-15.31.34:737][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.10.11-15.33.32:875][475]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-15.33.39:473][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.10.11-15.33.40:032][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.10.11-15.33.52:541][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.10.11-15.33.59:505][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.10.11-15.34.03:387][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.10.11-15.34.04:320][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.10.11-15.34.12:362][742]Cmd: TRANSACTION UNDO
+[2018.10.11-15.34.12:363][742]LogEditorTransaction: Undo Move Actors
+[2018.10.11-15.34.13:388][780]Cmd: EDIT COPY
+[2018.10.11-15.34.13:653][790]Cmd: EDIT PASTE
+[2018.10.11-15.34.20:232][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.10.11-15.34.35:102][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.34.35:969][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.10.11-15.34.36:822][537]Cmd: EDIT COPY
+[2018.10.11-15.34.37:148][548]Cmd: EDIT PASTE
+[2018.10.11-15.34.45:940][831]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-15.34.53:369][ 70]Cmd: EDIT COPY
+[2018.10.11-15.34.53:578][ 77]Cmd: EDIT PASTE
+[2018.10.11-15.34.56:499][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-15.35.02:034][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.35.02:546][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.10.11-15.35.26:081][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.35.26:949][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.10.11-15.35.28:168][189]Cmd: EDIT COPY
+[2018.10.11-15.35.28:409][197]Cmd: EDIT PASTE
+[2018.10.11-15.35.29:093][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.35.29:965][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.10.11-15.35.37:509][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.10.11-15.35.48:960][848]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.11-15.36.36:234][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.10.11-15.36.38:126][685]Cmd: EDIT COPY
+[2018.10.11-15.36.38:334][692]Cmd: EDIT PASTE
+[2018.10.11-15.37.51:714][927]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-15.39.33:502][461]LogSavePackage: Save=95.39ms
+[2018.10.11-15.39.33:502][461]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_Auto339FB558A4F67BABEA67540820E755450.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2018.10.11-15.39.33:529][461]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap
+[2018.10.11-15.39.33:532][461]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.154
+[2018.10.11-15.39.33:532][461]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.154
+[2018.10.11-15.45.17:977][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.10.11-15.45.39:887][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.10.11-15.45.41:311][529]Cmd: EDIT COPY
+[2018.10.11-15.45.41:549][537]Cmd: EDIT PASTE
+[2018.10.11-15.47.22:305][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.10.11-15.47.23:508][926]Cmd: EDIT COPY
+[2018.10.11-15.47.23:732][933]Cmd: EDIT PASTE
+[2018.10.11-15.47.32:176][209]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-15.47.39:026][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.47.40:102][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2018.10.11-15.47.46:111][643]Cmd: EDIT COPY
+[2018.10.11-15.47.46:325][650]Cmd: EDIT PASTE
+[2018.10.11-15.47.48:108][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-15.47.54:866][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.47.55:698][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2018.10.11-15.47.57:387][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2018.10.11-15.48.03:328][181]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-15.48.10:368][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2018.10.11-15.48.18:116][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2018.10.11-15.48.32:853][123]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.10.11-15.48.32:977][123]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-15.48.33:881][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.48.46:394][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2018.10.11-15.48.49:646][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.48.57:002][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2018.10.11-15.48.58:490][930]Cmd: EDIT COPY
+[2018.10.11-15.48.58:705][937]Cmd: EDIT PASTE
+[2018.10.11-15.49.08:842][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.49.11:494][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.49.12:046][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2018.10.11-15.49.22:744][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.49.29:794][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2018.10.11-15.49.30:802][919]Cmd: EDIT COPY
+[2018.10.11-15.49.31:041][927]Cmd: EDIT PASTE
+[2018.10.11-15.49.44:416][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2018.10.11-15.49.50:941][566]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-15.49.53:656][648]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.11-15.49.57:284][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2018.10.11-15.50.07:816][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.50.16:944][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2018.10.11-15.50.17:904][392]Cmd: EDIT COPY
+[2018.10.11-15.50.18:115][399]Cmd: EDIT PASTE
+[2018.10.11-15.50.21:593][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-15.50.41:701][152]Cmd: EDIT COPY
+[2018.10.11-15.50.41:880][158]Cmd: EDIT PASTE
+[2018.10.11-15.50.43:375][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-15.50.58:520][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.51.00:327][734]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.10.11-15.51.00:437][734]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-15.51.08:236][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2018.10.11-15.51.09:392][ 26]Cmd: EDIT COPY
+[2018.10.11-15.51.09:723][ 37]Cmd: EDIT PASTE
+[2018.10.11-15.51.10:886][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-15.51.31:426][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2018.10.11-15.51.33:023][794]Cmd: EDIT COPY
+[2018.10.11-15.51.33:269][800]Cmd: EDIT PASTE
+[2018.10.11-15.51.47:467][267]Cmd: EDIT COPY
+[2018.10.11-15.51.47:680][273]Cmd: EDIT PASTE
+[2018.10.11-15.52.04:848][826]Cmd: EDIT COPY
+[2018.10.11-15.52.05:159][836]Cmd: EDIT PASTE
+[2018.10.11-15.52.08:226][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-15.52.57:899][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2018.10.11-15.52.58:670][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2018.10.11-15.53.08:502][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.53.09:583][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.53.42:852][997]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-15.53.43:022][997]LogSavePackage: Save=103.56ms
+[2018.10.11-15.53.43:022][997]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_Auto4A16CE4E5498FC287B76C68A44EB354A3.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2018.10.11-15.53.43:023][997]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap
+[2018.10.11-15.53.43:026][997]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.141
+[2018.10.11-15.53.43:026][997]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.141
+[2018.10.11-15.54.55:095][300]Cmd: TRANSACTION UNDO
+[2018.10.11-15.54.55:095][300]LogEditorTransaction: Undo Move Actors
+[2018.10.11-15.55.02:088][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2018.10.11-15.55.26:708][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.55.27:438][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2018.10.11-15.55.38:322][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.55.40:153][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2018.10.11-15.55.40:976][775]Cmd: EDIT COPY
+[2018.10.11-15.55.41:176][782]Cmd: EDIT PASTE
+[2018.10.11-15.55.50:743][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-15.56.02:981][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2018.10.11-15.56.07:157][630]Cmd: EDIT COPY
+[2018.10.11-15.56.07:371][637]Cmd: EDIT PASTE
+[2018.10.11-15.56.38:976][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.56.41:947][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2018.10.11-15.56.48:242][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2018.10.11-15.56.54:023][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2018.10.11-15.56.55:179][139]Cmd: EDIT COPY
+[2018.10.11-15.56.55:396][144]Cmd: EDIT PASTE
+[2018.10.11-15.57.05:007][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.58.08:038][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2018.10.11-15.58.18:517][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.58.28:793][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2018.10.11-15.58.36:858][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2018.10.11-15.58.37:236][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.58.45:077][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2018.10.11-15.58.48:105][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2018.10.11-15.59.07:581][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-15.59.18:834][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2018.10.11-15.59.38:561][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.00.42:000][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-16.00.42:188][321]LogSavePackage: Save=116.56ms
+[2018.10.11-16.00.42:188][321]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default4E6A44A74C9C6AFDDE5E548364E95C7A.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.10.11-16.00.42:195][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.10.11-16.00.42:320][321]LogSavePackage: Save=87.39ms
+[2018.10.11-16.00.42:320][321]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_BuiltData9239A04C447535F4B42D9D8E8006B183.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.10.11-16.00.42:322][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.10.11-16.01.19:419][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2018.10.11-16.01.27:290][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.01.36:764][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2018.10.11-16.01.37:717][ 83]Cmd: EDIT COPY
+[2018.10.11-16.01.37:930][ 90]Cmd: EDIT PASTE
+[2018.10.11-16.05.54:589][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2018.10.11-16.06.01:998][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2018.10.11-16.06.07:095][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2018.10.11-16.06.11:154][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.06.16:741][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-16.06.20:840][133]LogSavePackage: Save=192.48ms
+[2018.10.11-16.06.20:841][133]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default10F74E534E1D6D29AFB77A81D718F6FA.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.10.11-16.06.20:846][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.10.11-16.06.20:986][133]LogSavePackage: Save=99.09ms
+[2018.10.11-16.06.20:986][133]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_BuiltDataC202E2674442162D29807183F70C2257.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.10.11-16.06.20:988][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.10.11-16.06.26:427][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2018.10.11-16.06.57:840][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2018.10.11-16.06.58:781][297]Cmd: EDIT COPY
+[2018.10.11-16.06.58:980][302]Cmd: EDIT PASTE
+[2018.10.11-16.07.04:808][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.07.05:523][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2018.10.11-16.07.20:729][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2018.10.11-16.07.24:871][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.07.25:339][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2018.10.11-16.07.26:872][159]Cmd: EDIT COPY
+[2018.10.11-16.07.27:131][167]Cmd: EDIT PASTE
+[2018.10.11-16.07.47:030][766]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.11-16.07.50:274][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2018.10.11-16.07.51:056][888]Cmd: EDIT COPY
+[2018.10.11-16.07.51:234][894]Cmd: EDIT PASTE
+[2018.10.11-16.08.02:064][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2018.10.11-16.08.03:071][249]Cmd: EDIT COPY
+[2018.10.11-16.08.03:290][256]Cmd: EDIT PASTE
+[2018.10.11-16.08.08:973][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.08.11:167][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.08.12:400][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2018.10.11-16.08.14:923][601]Cmd: EDIT COPY
+[2018.10.11-16.08.15:672][626]Cmd: EDIT PASTE
+[2018.10.11-16.08.23:338][868]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-16.08.31:600][129]Cmd: EDIT COPY
+[2018.10.11-16.08.31:882][136]Cmd: EDIT PASTE
+[2018.10.11-16.08.37:316][303]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.11-16.08.42:086][454]Cmd: EDIT COPY
+[2018.10.11-16.08.42:333][462]Cmd: EDIT PASTE
+[2018.10.11-16.08.53:930][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2018.10.11-16.09.04:208][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2018.10.11-16.09.07:829][248]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube33)
+[2018.10.11-16.09.09:146][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.09.35:068][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.09.35:708][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2018.10.11-16.09.39:003][200]Cmd: EDIT COPY
+[2018.10.11-16.09.39:302][210]Cmd: EDIT PASTE
+[2018.10.11-16.09.51:685][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.10.10:098][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2018.10.11-16.10.11:139][177]Cmd: EDIT COPY
+[2018.10.11-16.10.11:299][183]Cmd: EDIT PASTE
+[2018.10.11-16.10.18:736][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2018.10.11-16.10.25:378][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2018.10.11-16.10.29:616][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.10.36:474][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2018.10.11-16.10.45:152][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2018.10.11-16.10.48:356][305]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.11-16.11.00:195][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2018.10.11-16.11.01:042][675]Cmd: EDIT COPY
+[2018.10.11-16.11.01:255][682]Cmd: EDIT PASTE
+[2018.10.11-16.11.16:512][158]Cmd: EDIT COPY
+[2018.10.11-16.11.16:819][166]Cmd: EDIT PASTE
+[2018.10.11-16.11.19:095][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-16.11.53:096][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-16.11.53:401][298]LogSavePackage: Save=206.91ms
+[2018.10.11-16.11.53:401][298]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default7E87E4A34806C160DC82B49AE88ED117.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.10.11-16.11.53:407][298]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.10.11-16.11.53:577][298]LogSavePackage: Save=112.22ms
+[2018.10.11-16.11.53:577][298]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_BuiltData18CC3F5549050070667BAE9648CDB477.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.10.11-16.11.53:580][298]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.10.11-16.13.04:678][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-16.13.04:955][628]LogSavePackage: Save=196.24ms
+[2018.10.11-16.13.04:956][628]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default4A00A27A4D55C5F6DF45FBBB6F45148A.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.10.11-16.13.04:962][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.10.11-16.13.05:112][628]LogSavePackage: Save=120.39ms
+[2018.10.11-16.13.05:112][628]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_BuiltData827C96194D6A98DCA440039AE724F154.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.10.11-16.13.05:114][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.10.11-16.13.39:422][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2018.10.11-16.14.20:947][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.14.21:652][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2018.10.11-16.14.22:659][ 79]Cmd: EDIT COPY
+[2018.10.11-16.14.23:537][108]Cmd: EDIT PASTE
+[2018.10.11-16.15.02:152][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2018.10.11-16.15.03:499][349]Cmd: EDIT COPY
+[2018.10.11-16.15.03:688][353]Cmd: EDIT PASTE
+[2018.10.11-16.15.14:732][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.15.15:698][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube46)
+[2018.10.11-16.15.18:494][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.15.21:619][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube43)
+[2018.10.11-16.15.22:495][912]Cmd: EDIT COPY
+[2018.10.11-16.15.22:676][918]Cmd: EDIT PASTE
+[2018.10.11-16.15.34:596][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2018.10.11-16.15.35:418][298]Cmd: EDIT COPY
+[2018.10.11-16.15.35:677][304]Cmd: EDIT PASTE
+[2018.10.11-16.15.47:444][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.16.03:193][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube46)
+[2018.10.11-16.16.16:980][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube43)
+[2018.10.11-16.16.17:903][575]Cmd: EDIT COPY
+[2018.10.11-16.16.18:211][583]Cmd: EDIT PASTE
+[2018.10.11-16.16.44:846][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.16.46:301][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.16.46:785][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2018.10.11-16.16.47:764][478]Cmd: EDIT COPY
+[2018.10.11-16.16.47:994][485]Cmd: EDIT PASTE
+[2018.10.11-16.16.59:095][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2018.10.11-16.17.09:873][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.17.10:366][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2018.10.11-16.17.14:784][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.17.15:891][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2018.10.11-16.17.17:794][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.17.18:440][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2018.10.11-16.17.25:728][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2018.10.11-16.17.34:685][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2018.10.11-16.17.40:691][ 53]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.10.11-16.17.47:761][263]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-16.17.48:048][263]LogSavePackage: Save=187.28ms
+[2018.10.11-16.17.48:048][263]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_DefaultF71DE6C94BC68A10B623FAB51783105E.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.10.11-16.17.48:054][263]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.10.11-16.17.48:227][263]LogSavePackage: Save=99.87ms
+[2018.10.11-16.17.48:227][263]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_BuiltData08EAAE704AF2A4A99F9C039092FE3DB6.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.10.11-16.17.48:230][263]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.10.11-16.17.57:130][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2018.10.11-16.18.15:300][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.10.11-16.18.16:250][ 97]Cmd: EDIT COPY
+[2018.10.11-16.18.16:538][104]Cmd: EDIT PASTE
+[2018.10.11-16.18.47:329][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2018.10.11-16.18.52:430][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.18.58:669][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2018.10.11-16.19.11:001][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-16.19.11:296][693]LogSavePackage: Save=197.60ms
+[2018.10.11-16.19.11:296][693]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default66C3EFA34C4A9D36EF6AC7964FE88726.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.10.11-16.19.11:302][693]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.10.11-16.19.11:436][693]LogSavePackage: Save=100.66ms
+[2018.10.11-16.19.11:436][693]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_BuiltDataAEAADD0A4AFE8A2545F02185340D92BA.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.10.11-16.19.11:439][693]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.10.11-16.19.23:418][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2018.10.11-16.19.31:574][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.19.43:068][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-16.19.43:379][616]LogSavePackage: Save=197.99ms
+[2018.10.11-16.19.43:379][616]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_DefaultA9858363490811002F14D4BB6647FF3E.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.10.11-16.19.43:385][616]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.10.11-16.19.43:531][616]LogSavePackage: Save=107.98ms
+[2018.10.11-16.19.43:531][616]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_BuiltData63FCB92E460E181A5B485E9C4D60D90C.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.10.11-16.19.43:534][616]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.10.11-16.19.48:750][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.10.11-16.19.49:922][720]Cmd: EDIT COPY
+[2018.10.11-16.19.50:241][724]Cmd: EDIT PASTE
+[2018.10.11-16.19.53:919][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.10.11-16.19.54:983][805]Cmd: EDIT COPY
+[2018.10.11-16.19.55:227][810]Cmd: EDIT PASTE
+[2018.10.11-16.20.02:547][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.11-16.20.03:851][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.11-16.20.04:208][962]LogSavePackage: Save=242.55ms
+[2018.10.11-16.20.04:209][962]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_DefaultDAAC31CC4A2F831B27200EAF371BD77B.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.10.11-16.20.04:214][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.10.11-16.20.04:368][962]LogSavePackage: Save=118.02ms
+[2018.10.11-16.20.04:368][962]LogSavePackage: Moving '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Minimal_Default_BuiltData2FF84D4E44F27423934A51AED21BFAD9.tmp' to '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.10.11-16.20.04:371][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.10.11-16.20.10:213][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.11-16.20.10:536][ 69]LogSlate: Window 'Maze_Blockout - Unreal Editor' being destroyed
+[2018.10.11-16.20.10:540][ 69]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.11-16.20.11:516][ 70]Cmd: QUIT_EDITOR
+[2018.10.11-16.20.11:717][ 70]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.11-16.20.11:719][ 70]LogExit: Preparing to exit.
+[2018.10.11-16.20.12:315][ 70]LogDirectoryWatcher: A directory notification for 'C:/Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/' was aborted.
+[2018.10.11-16.20.12:535][ 70]LogExit: Editor shut down
+[2018.10.11-16.20.13:095][ 70]LogExit: Transaction tracking system shut down
+[2018.10.11-16.20.13:965][ 70]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.10.11-16.20.13:965][ 70]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/' was aborted.
+[2018.10.11-16.20.13:965][ 70]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.10.11-16.20.13:965][ 70]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.10.11-16.20.13:965][ 70]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.10.11-16.20.13:966][ 70]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.10.11-16.20.13:966][ 70]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.10.11-16.20.13:966][ 70]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.10.11-16.20.14:237][ 70]LogExit: Object subsystem successfully closed.
+[2018.10.11-16.20.14:319][ 70]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.11-16.20.14:334][ 70]LogD3D11RHI: Shutdown
+[2018.10.11-16.20.14:334][ 70]LogD3D11RHI: CleanupD3DDevice
+[2018.10.11-16.20.14:348][ 70]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.11-16.20.14:452][ 70]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.10.11-16.20.14:453][ 70]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.10.11-16.20.14:453][ 70]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.10.11-16.20.14:454][ 70]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.10.11-16.20.14:472][ 70]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.10.11-16.20.14:472][ 70]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.10.11-16.20.14:472][ 70]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.10.11-16.20.14:472][ 70]LogDirectoryWatcher: A directory notification for 'C:/Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/Collections/' was aborted.
+[2018.10.11-16.20.14:473][ 70]LogDirectoryWatcher: A directory notification for 'C:/Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Content/Developers/AlexisLellios/Collections/' was aborted.
+[2018.10.11-16.20.14:473][ 70]LogDirectoryWatcher: A directory notification for 'C:/Users/Alexis Lellios/Documents/Unreal Projects/Maze_Blockout/Saved/Collections/' was aborted.
+[2018.10.11-16.20.14:473][ 70]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.10.11-16.20.14:474][ 70]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.10.11-16.20.14:474][ 70]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.10.11-16.20.14:475][ 70]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.10.11-16.20.14:475][ 70]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.10.11-16.20.14:475][ 70]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.10.11-16.20.14:476][ 70]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.10.11-16.20.14:476][ 70]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.10.11-16.20.14:476][ 70]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.10.11-16.20.14:476][ 70]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.10.11-16.20.14:476][ 70]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.10.11-16.20.14:476][ 70]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.10.11-16.20.14:477][ 70]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.10.11-16.20.14:477][ 70]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.10.11-16.20.14:477][ 70]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.10.11-16.20.14:478][ 70]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.10.11-16.20.14:478][ 70]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.10.11-16.20.14:483][ 70]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.10.11-16.20.14:483][ 70]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.10.11-16.20.14:486][ 70]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.10.11-16.20.14:486][ 70]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.10.11-16.20.14:487][ 70]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.10.11-16.20.14:489][ 70]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.10.11-16.20.14:491][ 70]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.10.11-16.20.14:492][ 70]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.10.11-16.20.14:493][ 70]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.10.11-16.20.14:495][ 70]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.10.11-16.20.14:496][ 70]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.10.11-16.20.14:497][ 70]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.10.11-16.20.14:497][ 70]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.10.11-16.20.14:497][ 70]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.10.11-16.20.15:316][ 70]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.10.11-16.20.15:316][ 70]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.10.11-16.20.15:316][ 70]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.10.11-16.20.15:316][ 70]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.10.11-16.20.15:342][ 70]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.10.11-16.20.15:342][ 70]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.10.11-16.20.15:343][ 70]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.10.11-16.20.15:343][ 70]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.10.11-16.20.15:343][ 70]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.10.11-16.20.15:344][ 70]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.10.11-16.20.15:344][ 70]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.10.11-16.20.15:345][ 70]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.10.11-16.20.15:345][ 70]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.10.11-16.20.15:345][ 70]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.10.11-16.20.15:345][ 70]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.10.11-16.20.15:345][ 70]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.10.11-16.20.15:347][ 70]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.10.11-16.20.15:348][ 70]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.10.11-16.20.15:348][ 70]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.10.11-16.20.15:349][ 70]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.10.11-16.20.15:349][ 70]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.10.11-16.20.15:393][ 70]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.10.11-16.20.15:393][ 70]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.10.11-16.20.15:395][ 70]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.10.11-16.20.15:398][ 70]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.10.11-16.20.15:398][ 70]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.10.11-16.20.15:398][ 70]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.10.11-16.20.15:398][ 70]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.10.11-16.20.15:399][ 70]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.10.11-16.20.15:399][ 70]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.10.11-16.20.15:399][ 70]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.10.11-16.20.15:401][ 70]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.10.11-16.20.15:403][ 70]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.10.11-16.20.15:403][ 70]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.10.11-16.20.15:403][ 70]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.10.11-16.20.15:404][ 70]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.10.11-16.20.15:405][ 70]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.10.11-16.20.15:405][ 70]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.10.11-16.20.15:406][ 70]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.10.11-16.20.15:406][ 70]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.10.11-16.20.15:406][ 70]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.10.11-16.20.15:406][ 70]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.10.11-16.20.15:406][ 70]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.10.11-16.20.15:406][ 70]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.10.11-16.20.15:406][ 70]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.10.11-16.20.15:406][ 70]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.10.11-16.20.15:406][ 70]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.10.11-16.20.15:406][ 70]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.10.11-16.20.15:406][ 70]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.10.11-16.20.15:407][ 70]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.10.11-16.20.15:407][ 70]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.10.11-16.20.15:408][ 70]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.10.11-16.20.15:648][ 70]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.10.11-16.20.15:650][ 70]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.10.11-16.20.15:650][ 70]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.10.11-16.20.15:650][ 70]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.10.11-16.20.15:651][ 70]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.10.11-16.20.15:652][ 70]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.10.11-16.20.15:652][ 70]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.10.11-16.20.15:652][ 70]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.10.11-16.20.15:652][ 70]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.10.11-16.20.15:652][ 70]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.10.11-16.20.15:653][ 70]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.10.11-16.20.15:653][ 70]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.10.11-16.20.15:653][ 70]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.10.11-16.20.15:658][ 70]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.10.11-16.20.15:658][ 70]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.10.11-16.20.15:658][ 70]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.10.11-16.20.15:658][ 70]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.10.11-16.20.15:675][ 70]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.10.11-16.20.15:675][ 70]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.10.11-16.20.15:676][ 70]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.10.11-16.20.15:676][ 70]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.10.11-16.20.15:676][ 70]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.10.11-16.20.15:676][ 70]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.10.11-16.20.15:677][ 70]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.10.11-16.20.15:677][ 70]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.10.11-16.20.15:680][ 70]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.10.11-16.20.15:682][ 70]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.10.11-16.20.15:683][ 70]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.10.11-16.20.15:684][ 70]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.10.11-16.20.15:684][ 70]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.10.11-16.20.15:684][ 70]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.10.11-16.20.15:684][ 70]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.10.11-16.20.15:689][ 70]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.10.11-16.20.15:691][ 70]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.10.11-16.20.15:693][ 70]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.10.11-16.20.15:695][ 70]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.10.11-16.20.15:696][ 70]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.10.11-16.20.15:696][ 70]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.10.11-16.20.15:696][ 70]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.10.11-16.20.15:696][ 70]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.10.11-16.20.15:699][ 70]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.10.11-16.20.15:700][ 70]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.10.11-16.20.15:700][ 70]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.10.11-16.20.15:701][ 70]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.10.11-16.20.15:701][ 70]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.10.11-16.20.15:701][ 70]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.10.11-16.20.15:701][ 70]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.10.11-16.20.15:701][ 70]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.10.11-16.20.15:702][ 70]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.10.11-16.20.15:703][ 70]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.10.11-16.20.15:804][ 70]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.10.11-16.20.15:906][ 70]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.10.11-16.20.15:907][ 70]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.10.11-16.20.15:908][ 70]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.10.11-16.20.15:908][ 70]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.10.11-16.20.15:909][ 70]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.10.11-16.20.15:912][ 70]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.10.11-16.20.15:923][ 70]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.10.11-16.20.15:924][ 70]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.10.11-16.20.15:925][ 70]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.10.11-16.20.15:926][ 70]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.10.11-16.20.15:929][ 70]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.10.11-16.20.15:943][ 70]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.10.11-16.20.15:944][ 70]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.10.11-16.20.15:944][ 70]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.10.11-16.20.15:946][ 70]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.10.11-16.20.16:186][ 70]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.10.11-16.20.16:187][ 70]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.10.11-16.20.16:188][ 70]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.10.11-16.20.16:194][ 70]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.10.11-16.20.16:204][ 70]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.10.11-16.20.16:204][ 70]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.10.11-16.20.16:204][ 70]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.10.11-16.20.16:206][ 70]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.10.11-16.20.16:206][ 70]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.10.11-16.20.16:206][ 70]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.10.11-16.20.16:206][ 70]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.10.11-16.20.16:209][ 70]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.10.11-16.20.16:209][ 70]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.10.11-16.20.16:209][ 70]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.10.11-16.20.16:214][ 70]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.10.11-16.20.16:215][ 70]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.10.11-16.20.16:216][ 70]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.10.11-16.20.16:216][ 70]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.10.11-16.20.16:218][ 70]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.10.11-16.20.16:223][ 70]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.10.11-16.20.16:226][ 70]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.10.11-16.20.16:226][ 70]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.10.11-16.20.16:233][ 70]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.10.11-16.20.16:233][ 70]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.10.11-16.20.16:253][ 70]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.10.11-16.20.16:254][ 70]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.10.11-16.20.16:254][ 70]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.10.11-16.20.16:254][ 70]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.10.11-16.20.16:254][ 70]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.10.11-16.20.16:255][ 70]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.10.11-16.20.16:255][ 70]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.10.11-16.20.16:256][ 70]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.10.11-16.20.16:256][ 70]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.10.11-16.20.16:256][ 70]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.10.11-16.20.16:257][ 70]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.10.11-16.20.16:257][ 70]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.10.11-16.20.16:258][ 70]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.10.11-16.20.16:259][ 70]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.10.11-16.20.16:261][ 70]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.10.11-16.20.16:262][ 70]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.10.11-16.20.16:294][ 70]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.10.11-16.20.16:377][ 70]LogDerivedDataCache: Shutdown
+[2018.10.11-16.20.16:378][ 70]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.10.11-16.20.16:379][ 70]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.10.11-16.20.16:379][ 70]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.10.11-16.20.16:381][ 70]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.10.11-16.20.16:382][ 70]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.10.11-16.20.16:384][ 70]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.10.11-16.20.16:385][ 70]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.10.11-16.20.16:387][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.10.11-16.20.16:387][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.10.11-16.20.16:387][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.10.11-16.20.16:389][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.10.11-16.20.16:390][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.10.11-16.20.16:391][ 70]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.10.11-16.20.16:391][ 70]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.10.11-16.20.16:391][ 70]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.10.11-16.20.16:391][ 70]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.10.11-16.20.16:392][ 70]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.10.11-16.20.16:392][ 70]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.10.11-16.20.16:392][ 70]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.10.11-16.20.16:392][ 70]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.10.11-16.20.16:393][ 70]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.10.11-16.20.16:393][ 70]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.10.11-16.20.16:393][ 70]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.10.11-16.20.16:393][ 70]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.10.11-16.20.16:393][ 70]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.10.11-16.20.16:393][ 70]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.10.11-16.20.16:393][ 70]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.10.11-16.20.16:394][ 70]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.10.11-16.20.16:394][ 70]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.10.11-16.20.16:394][ 70]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.10.11-16.20.16:394][ 70]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.10.11-16.20.16:394][ 70]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.10.11-16.20.16:394][ 70]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.10.11-16.20.16:394][ 70]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.10.11-16.20.16:394][ 70]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.10.11-16.20.16:394][ 70]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.10.11-16.20.16:395][ 70]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.10.11-16.20.16:395][ 70]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.10.11-16.20.16:395][ 70]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.10.11-16.20.16:396][ 70]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.10.11-16.20.16:396][ 70]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.10.11-16.20.16:396][ 70]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.10.11-16.20.16:396][ 70]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.10.11-16.20.16:397][ 70]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.10.11-16.20.16:397][ 70]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.10.11-16.20.16:397][ 70]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.10.11-16.20.16:397][ 70]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.10.11-16.20.16:397][ 70]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.10.11-16.20.16:399][ 70]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.10.11-16.20.16:399][ 70]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.10.11-16.20.16:399][ 70]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.10.11-16.20.16:400][ 70]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.10.11-16.20.16:400][ 70]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.10.11-16.20.16:405][ 70]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.10.11-16.20.16:410][ 70]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.10.11-16.20.16:411][ 70]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.11-16.20.16:412][ 70]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6AC409C-4E15-DD27-EA01-BBA08FB4A910%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=ef54d2bc4ce1b1869a516c8d58c74a60%7C2da23cc3c16f4962ae887e0400eb47a5%7Ce0c533ad-ddba-45b7-8521-279da0783d72&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.11-16.20.16:433][ 70]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.10.11-16.20.16:444][ 70]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.11-16.20.16:446][ 70]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.11-16.20.16:448][ 70]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.11-16.20.16:450][ 70]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.11-16.20.16:456][ 70]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.11-16.20.16:456][ 70]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.11-16.20.16:456][ 70]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.11-16.20.16:474][ 70]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.11-16.20.16:489][ 70]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.11-16.20.16:489][ 70]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.11-16.20.16:490][ 70]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.11-16.20.16:490][ 70]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.11-16.20.16:490][ 70]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.11-16.20.16:490][ 70]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.11-16.20.16:490][ 70]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.11-16.20.16:490][ 70]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.11-16.20.16:491][ 70]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.11-16.20.16:491][ 70]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.11-16.20.16:503][ 70]LogExit: Exiting.
+[2018.10.11-16.20.16:537][ 70]Log file closed, 10/11/18 11:20:16
